@@ -23,34 +23,34 @@
     <tr>
         <td>
             <a href="https://github.com/Fran3021/Elearning-landing-page">Elearning landing page
-            <img src="../proyectos-responsive/portadas/portada-landing-page.jpg" alt="">
+            <img src="/portadas/portada-landing-page.jpg" alt="">
             </a>
         </td>
         <td>
             <a href="https://github.com/Fran3021/Typemaster">Typemaster
-            <img src="../proyectos-responsive/portadas/portada-typemaster.jpg" alt="">
+            <img src="/portadas/portada-typemaster.jpg" alt="">
             </a>
         </td>
                 <td>
             <a href="https://github.com/Fran3021/Modern-art-gallery">Modern art gallery
-            <img src="../proyectos-responsive/portadas/portada-modern-art-gallery.jpg" alt="">
+            <img src="/portadas/portada-modern-art-gallery.jpg" alt="">
             </a>
         </td>
     </tr>
     <tr>
         <td>
             <a href="https://github.com/Fran3021/Demo-portfolio">Demo portfolio
-            <img src="../proyectos-responsive/portadas/portada-demo-portfolio.jpg" alt="">
+            <img src="/portadas/portada-demo-portfolio.jpg" alt="">
             </a>
         </td>
         <td>
             <a href="https://github.com/Fran3021/Figma-devs">Figma devs
-            <img src="../proyectos-responsive/portadas/portada-figma-devs.jpg" alt="">
+            <img src="/portadas/portada-figma-devs.jpg" alt="">
             </a>
         </td>
         <td>
             <a href="https://github.com/Fran3021/Inkscape">Inkscape
-            <img src="../proyectos-responsive/portadas/portada-inkscape.jpg" alt="">
+            <img src="/portadas/portada-inkscape.jpg" alt="">
             </a>
         </td>
     </tr>
